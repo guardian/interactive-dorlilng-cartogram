@@ -1,0 +1,48 @@
+@import "mq";
+@import "fonts";
+@import "palette";
+// Uncomment for embeds
+//@import "embed";
+// Uncomment for full screen (including immersive article main media)
+//@import "fullscreen";
+.element-atom,
+.interactive-atom {
+    margin: 0 !important;
+}
+
+.North-America{
+  fill:blue;
+}
+
+.South-America{
+  fill:green;
+}
+
+.Europe{
+  fill:red;
+  opacity: .5;
+}
+
+.Africa{
+  fill:Orange;
+}
+
+.Asia{
+  fill:black;
+}
+
+.Seven-seas-open-ocean{
+  fill:pink;
+}
+
+.Oceania{
+  fill:purple;
+}
+
+.Antarctica{
+  fill:white;
+}
+
+.Middle-East{
+  fill:yellow;
+}
